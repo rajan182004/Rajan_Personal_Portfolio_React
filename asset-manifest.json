@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/rajan182004/Rajan_Personal_Portfolio_React/static/css/main.4fb88bcd.css",
+    "main.js": "/rajan182004/Rajan_Personal_Portfolio_React/static/js/main.edaba022.js",
+    "static/media/lifeofpie.png": "/rajan182004/Rajan_Personal_Portfolio_React/static/media/lifeofpie.e1c13c1d263400279a12.png",
+    "static/media/vertosblog.png": "/rajan182004/Rajan_Personal_Portfolio_React/static/media/vertosblog.2254c1c678027c1f0dd9.png",
+    "static/media/studysyncc.png": "/rajan182004/Rajan_Personal_Portfolio_React/static/media/studysyncc.3bffaae196c4c7073b8e.png",
+    "static/media/resume.pdf": "/rajan182004/Rajan_Personal_Portfolio_React/static/media/resume.3b67502e164d6409453e.pdf",
+    "static/media/boy.png": "/rajan182004/Rajan_Personal_Portfolio_React/static/media/boy.07c28cc0f9ef7065e2d1.png",
+    "static/media/rajanblog.png": "/rajan182004/Rajan_Personal_Portfolio_React/static/media/rajanblog.2792d8df0b84ee3f203c.png",
+    "static/media/glassesimoji.png": "/rajan182004/Rajan_Personal_Portfolio_React/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/profile3.jpg": "/rajan182004/Rajan_Personal_Portfolio_React/static/media/profile3.05a0f575037d4e496529.jpg",
+    "static/media/logo.png": "/rajan182004/Rajan_Personal_Portfolio_React/static/media/logo.8a617debd7c32243f4d3.png",
+    "static/media/thumbup.png": "/rajan182004/Rajan_Personal_Portfolio_React/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/rajan182004/Rajan_Personal_Portfolio_React/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/rajan182004/Rajan_Personal_Portfolio_React/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/studysync.png": "/rajan182004/Rajan_Personal_Portfolio_React/static/media/studysync.08960234314e27b013b7.png",
+    "static/media/wave.png": "/rajan182004/Rajan_Personal_Portfolio_React/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/rajan182004/Rajan_Personal_Portfolio_React/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/rajan182004/Rajan_Personal_Portfolio_React/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/rajan182004/Rajan_Personal_Portfolio_React/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/rajan182004/Rajan_Personal_Portfolio_React/index.html",
+    "main.4fb88bcd.css.map": "/rajan182004/Rajan_Personal_Portfolio_React/static/css/main.4fb88bcd.css.map",
+    "main.edaba022.js.map": "/rajan182004/Rajan_Personal_Portfolio_React/static/js/main.edaba022.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fb88bcd.css",
+    "static/js/main.edaba022.js"
+  ]
+}
